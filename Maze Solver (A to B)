@@ -7,7 +7,7 @@ pygame.init()
 
 GRID_SIZE = 20
 SQUARE_SIZE = 25
-SPEED = 10
+SPEED = 10 #SPEED can be changed to speed up the visual process
 
 WHITE = (255, 255, 255)
 BLUE = (0, 0, 255)
