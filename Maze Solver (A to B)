@@ -12,6 +12,7 @@ SPEED = 10 #SPEED can be changed to speed up the visual process
 WHITE = (255, 255, 255)
 BLUE = (0, 0, 255)
 PURPLE = (255, 0, 255)
+BLACK = (0, 0, 0)
 
 # Line drawing function
 
